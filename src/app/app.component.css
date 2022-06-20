@@ -1,0 +1,28 @@
+.Toolbar{
+    
+    background-color: blueviolet;
+    text-align:right;
+    border-color: black;
+    margin-top: 0px;
+    position: sticky;
+    position: -webkit-sticky; 
+    top: 0; 
+    z-index: 1000;
+    position: absolute;
+    position: relative;
+    position:fixed ;
+}
+
+.matCard{
+    background-color: blueviolet;
+    text-align:right;
+    border-color: black;
+    margin-top: 100px;
+    margin-left: 42%;
+    position: sticky;
+    top: 0; 
+    z-index: 1000;
+    position: absolute;
+    position: relative;
+    position:fixed ;
+}
